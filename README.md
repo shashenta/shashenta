@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shashenta
 - 👀 I’m interested in cloud services and movies?
-- 🌱 I’m currently learning AWS related services and creating apps integrating with those services
-- 💞️ I’m looking to collaborate on cool projects!
+- 🌱 I’m currently into AWS related services and creating apps integrating with its infrastructure
+- 💞️ I’m looking to collaborate on new projects and exploring new services!
 - 📫 How to reach me -> shashentarao@gmail.com
 
 <!---
